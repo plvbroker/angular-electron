@@ -6,6 +6,7 @@
 * misc/ GitHub actions: node 20, ubuntu 22.04 + pin versions ([872e696](https://github.com/maximegris/angular-electron/commit/872e696))
 * misc/ unit-test : replace Karma & Jasmine with Jest ([f36aa91](https://github.com/maximegris/angular-electron/commit/f36aa91))
 * misc/ Upgrade to Angular 17 & Electron 27 ([2ec1cec](https://github.com/maximegris/angular-electron/commit/2ec1cec))
+* misc/ Upgrade to Electron 30 ([1a431cd](https://github.com/maximegris/angular-electron/commit/1a431cd))
 * chore: fix lint ([822853f](https://github.com/maximegris/angular-electron/commit/822853f))
 
 
